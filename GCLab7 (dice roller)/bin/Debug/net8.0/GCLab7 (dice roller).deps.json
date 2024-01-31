@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GCLab7 (dice roller)/1.0.0": {
+        "runtime": {
+          "GCLab7 (dice roller).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GCLab7 (dice roller)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

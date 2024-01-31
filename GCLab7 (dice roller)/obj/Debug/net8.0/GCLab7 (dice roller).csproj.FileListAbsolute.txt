@@ -1,0 +1,14 @@
+C:\Users\elire\source\repos\GC Labs\GCLab7 (dice roller)\GCLab7 (dice roller)\bin\Debug\net8.0\GCLab7 (dice roller).exe
+C:\Users\elire\source\repos\GC Labs\GCLab7 (dice roller)\GCLab7 (dice roller)\bin\Debug\net8.0\GCLab7 (dice roller).deps.json
+C:\Users\elire\source\repos\GC Labs\GCLab7 (dice roller)\GCLab7 (dice roller)\bin\Debug\net8.0\GCLab7 (dice roller).runtimeconfig.json
+C:\Users\elire\source\repos\GC Labs\GCLab7 (dice roller)\GCLab7 (dice roller)\bin\Debug\net8.0\GCLab7 (dice roller).dll
+C:\Users\elire\source\repos\GC Labs\GCLab7 (dice roller)\GCLab7 (dice roller)\bin\Debug\net8.0\GCLab7 (dice roller).pdb
+C:\Users\elire\source\repos\GC Labs\GCLab7 (dice roller)\GCLab7 (dice roller)\obj\Debug\net8.0\GCLab7 (dice roller).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elire\source\repos\GC Labs\GCLab7 (dice roller)\GCLab7 (dice roller)\obj\Debug\net8.0\GCLab7 (dice roller).AssemblyInfoInputs.cache
+C:\Users\elire\source\repos\GC Labs\GCLab7 (dice roller)\GCLab7 (dice roller)\obj\Debug\net8.0\GCLab7 (dice roller).AssemblyInfo.cs
+C:\Users\elire\source\repos\GC Labs\GCLab7 (dice roller)\GCLab7 (dice roller)\obj\Debug\net8.0\GCLab7 (dice roller).csproj.CoreCompileInputs.cache
+C:\Users\elire\source\repos\GC Labs\GCLab7 (dice roller)\GCLab7 (dice roller)\obj\Debug\net8.0\GCLab7 (dice roller).dll
+C:\Users\elire\source\repos\GC Labs\GCLab7 (dice roller)\GCLab7 (dice roller)\obj\Debug\net8.0\refint\GCLab7 (dice roller).dll
+C:\Users\elire\source\repos\GC Labs\GCLab7 (dice roller)\GCLab7 (dice roller)\obj\Debug\net8.0\GCLab7 (dice roller).pdb
+C:\Users\elire\source\repos\GC Labs\GCLab7 (dice roller)\GCLab7 (dice roller)\obj\Debug\net8.0\GCLab7 (dice roller).genruntimeconfig.cache
+C:\Users\elire\source\repos\GC Labs\GCLab7 (dice roller)\GCLab7 (dice roller)\obj\Debug\net8.0\ref\GCLab7 (dice roller).dll
